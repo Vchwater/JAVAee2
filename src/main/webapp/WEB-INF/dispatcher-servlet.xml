@@ -59,5 +59,8 @@
 		<property name="suffix" value=".jsp" />
 	</bean>
 	
+	<bean id="ClassDAOImpl" class="com.cuit.dao.impl.ClassDAOImpl" />
+	<bean id="ServiceImpl" class="com.cuit.service.impl.ServiceImpl" />
+	
 	
 </beans>

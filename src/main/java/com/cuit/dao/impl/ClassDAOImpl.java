@@ -1,5 +1,7 @@
 package com.cuit.dao.impl;
 
-public class ClassDAOImpl {
+import com.cuit.dao.ClassDAO;
+
+public class ClassDAOImpl implements ClassDAO  {
 
 }
